@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-label="IDE">
+<rect width="900" height="400" rx="14" fill="#fff" stroke="#d9d2c3"/><rect width="900" height="40" rx="14" fill="#2d2a6e"/><rect y="26" width="900" height="14" fill="#2d2a6e"/>
+<circle cx="22" cy="20" r="6" fill="#e06c5d"/><circle cx="42" cy="20" r="6" fill="#e6b450"/><circle cx="62" cy="20" r="6" fill="#62b26b"/>
+<rect x="20" y="54" width="120" height="28" rx="6" fill="#2e7d32"/><text x="80" y="73" text-anchor="middle" font-size="15" fill="#fff">▶</text>
+<rect x="20" y="92" width="860" height="290" rx="6" fill="#fbfaf7" stroke="#bbb"/>
+<text x="32" y="118" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">#అన్తర్భావ &lt;stdio.h&gt;</text>
+<text x="32" y="139" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">/* క్రమబద్ధ జాబితాలో ద్విమాన శోధన */</text>
+<text x="32" y="160" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">పూర్ణాంకం ద్విమాన_శోధన(పూర్ణాంకం విలువలు[], పూర్ణాంకం లెక్క, పూర్ణాంకం కీలకం) {</text>
+<text x="32" y="181" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  పూర్ణాంకం దిగువ = 0, ఎగువ = లెక్క - 1;</text>
+<text x="32" y="202" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  అయితే (దిగువ &lt;= ఎగువ) {</text>
+<text x="32" y="223" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    పూర్ణాంకం మధ్య = దిగువ + (ఎగువ - దిగువ) / 2;</text>
+<text x="32" y="244" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    ఒకవేళ (విలువలు[మధ్య] == కీలకం) తిరిగి మధ్య;</text>
+<text x="32" y="265" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">    ఒకవేళ (విలువలు[మధ్య] &lt; కీలకం) దిగువ = మధ్య + 1; లేకపోతే ఎగువ = మధ్య - 1;</text>
+<text x="32" y="286" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  }</text>
+<text x="32" y="307" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">  తిరిగి -1;</text>
+<text x="32" y="328" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">}</text>
+<text x="32" y="349" text-anchor="start" direction="ltr" font-family="ui-monospace,monospace" font-size="15" fill="#1d1b17" xml:space="preserve">పూర్ణాంకం ప్రధాన(శూన్య) {</text>
+</svg>

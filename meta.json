@@ -1,0 +1,1 @@
+{"lang": "telugu", "code": "te", "name": "తెలుగు", "programs": [["C", "ran"], ["C++", "ran"], ["Python", "ran"], ["Java", "lowered"], ["BASIC", "lowered"], ["Lex", "ran"], ["Yacc", "ran"]], "keywords": 562}
